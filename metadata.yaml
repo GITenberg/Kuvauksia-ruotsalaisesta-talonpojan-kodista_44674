@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42021
     wikipedia: http://sv.wikipedia.org/wiki/Alfred_Hedenstierna
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44674#Kuvauksia-ruotsalaisesta-talonpojan-kodista
 gutenberg_issued: '2014-01-15'
 gutenberg_type: Text
 identifiers:
