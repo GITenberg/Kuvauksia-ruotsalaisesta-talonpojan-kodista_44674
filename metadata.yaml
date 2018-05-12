@@ -1,0 +1,34 @@
+_repo: Kuvauksia-ruotsalaisesta-talonpojan-kodista_44674
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sigurd
+    alias: Hedenstierna, Alfred
+    birthdate: 1852
+    deathdate: 1906
+    gutenberg_agent_id: '42021'
+    url: http://www.gutenberg.org/2009/agents/42021
+    wikipedia: http://sv.wikipedia.org/wiki/Alfred_Hedenstierna
+description: ''
+gutenberg_issued: '2014-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44674'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcsh 'Short stories'
+tableOfContents: Esipuhe -- Kun pikku Tiina ristillä käytettiin -- Lukusilla -- Kaikkien
+  ystävä -- Rakkaus -- "Hänestä tulee kyllä" -- Ainoastaan yksi lehmä -- Salakapakoitsijan
+  tytär -- Pekka Juhonpojan Lassi, josta tuli mies maailmassa -- Kuninkaan kyyti --
+  Uusi lukkari -- Kansalaisluottamus -- Anoppi -- Kun rautatie oli valmis -- "Kun
+  juna kiitää kohti Göteporia" -- Ruotilainen -- "Liian myöhään."
+title: Kuvauksia ruotsalaisesta talonpojan kodista
+url: http://www.gutenberg.org/ebooks/44674
